@@ -12,7 +12,6 @@
 - 🌱 Exploring more of cloud architecture (Azure, AWS) and DevOps  
 - 💬 Ask me about backend design, databases, clean architecture, or Three.js  
 - 🎓 Master of Applied Computer Science @ Concordia University  
-- ⚡ Fun fact: I love teaching math & algorithms on the side!
 
 ---
 
